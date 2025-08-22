@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:#8fd1d1;
+    height: 100vh;
+    height: 100vw;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.auto
+{
+   padding-top:5px;
+    height:5vh;
+    width:40vw;
+    background-color:#fff;
+    margin-top:10px;
+    margin-left:32vw ;
+    text-align: center;
+    font-weight: bold;
+    
+}
+.auto h3{
+    padding-top:5px;
+}
+.frist textarea
+{
+    height:35vh;
+    width:48vw;
+    background-color: aliceblue;
+    margin-left:20px;
+    position: absolute;
+    border: 1px solid #444;
+    resize: none;
+
+
+}
+.enter{
+    margin-left:18vw;
+    font-weight:bold;
+display: inline-block;
+}
+.output{
+margin-left:48vw;
+font-weight:bold;
+display: inline-block;
+
+
+}
+
+.second textarea
+{
+    height:35vh;
+    width:48vw;
+    background-color: aliceblue;
+    margin-left:50vw;
+    margin-right:20px;
+    resize: none;
+    border: 1px solid #444;
+
+
+}
+.correct{
+   padding-top:5px;
+    height:5vh;
+    width:40vw;
+    background-color:#20b2aa;
+    margin-top:10px;
+    margin-left:32vw ;
+    text-align: center;
+    font-weight: bold;
+    cursor: pointer;
+    position: absolute;
+    font-weight: bold;
+    font-size: large;
+    margin-top:50px ;
+}
+
+.clear{
+ padding-top:5px;
+    height:5vh;
+    width:8vw;
+    background-color:#20b2aa;
+    margin-top:10px;
+    margin-left:80vw ;
+    text-align: center;
+    font-weight: bold;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: large;
+    margin-top:50px ;
+}
+#outText {
+  font-size: 23px;  
+}
+
+
